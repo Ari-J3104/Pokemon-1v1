@@ -1,0 +1,932 @@
+Name,Accuracy,BasePower,Category,PP,Type,Effect
+10000000 Volt Thunderbolt,true,195,Special,1,Electric,None
+Absorb,100,20,Special,25,Grass,None
+Accelerock,100,40,Physical,20,Rock,None
+Acid,100,40,Special,30,Poison,None
+Acid Armor,true,0,Status,20,Poison,None
+Acid Downpour,true,1,Physical,1,Poison,None
+Acid Spray,100,40,Special,20,Poison,None
+Acrobatics,100,55,Physical,15,Flying,None
+Acupressure,true,0,Status,30,Normal,None
+Aerial Ace,true,60,Physical,20,Flying,None
+Aeroblast,95,100,Special,5,Flying,None
+After You,true,0,Status,15,Normal,None
+Agility,true,0,Status,30,Psychic,None
+Air Cutter,95,60,Special,25,Flying,None
+Air Slash,95,75,Special,15,Flying,chance:30|effect:flinch
+All-Out Pummeling,true,1,Physical,1,Fighting,None
+Ally Switch,true,0,Status,15,Psychic,None
+Amnesia,true,0,Status,20,Psychic,None
+Anchor Shot,100,80,Physical,20,Steel,None
+Ancient Power,100,60,Special,5,Rock,None
+Apple Acid,100,80,Special,10,Grass,None
+Aqua Cutter,100,70,Physical,20,Water,None
+Aqua Jet,100,40,Physical,20,Water,None
+Aqua Ring,true,0,Status,20,Water,None
+Aqua Step,100,80,Physical,10,Water,None
+Aqua Tail,90,90,Physical,10,Water,None
+Armor Cannon,100,120,Special,5,Fire,None
+Arm Thrust,100,15,Physical,20,Fighting,None
+Aromatherapy,true,0,Status,5,Grass,None
+Aromatic Mist,true,0,Status,20,Fairy,None
+Assist,true,0,Status,20,Normal,None
+Assurance,100,60,Physical,10,Dark,None
+Astonish,100,30,Physical,15,Ghost,chance:30|effect:flinch
+Astral Barrage,100,120,Special,5,Ghost,None
+Attack Order,100,90,Physical,15,Bug,None
+Attract,100,0,Status,15,Normal,None
+Aura Sphere,true,80,Special,20,Fighting,None
+Aura Wheel,100,110,Physical,10,Electric,None
+Aurora Beam,100,65,Special,20,Ice,None
+Aurora Veil,true,0,Status,20,Ice,None
+Autotomize,true,0,Status,15,Steel,None
+Avalanche,100,60,Physical,10,Ice,None
+Axe Kick,90,120,Physical,10,Fighting,chance:30|effect:confusion
+Baby-Doll Eyes,100,0,Status,30,Fairy,None
+Baddy Bad,95,80,Special,15,Dark,None
+Baneful Bunker,true,0,Status,10,Poison,None
+Barb Barrage,100,60,Physical,10,Poison,chance:50|effect:psn
+Barrage,85,15,Physical,20,Normal,None
+Barrier,true,0,Status,20,Psychic,None
+Baton Pass,true,0,Status,40,Normal,None
+Beak Blast,100,100,Physical,15,Flying,None
+Beat Up,100,0,Physical,10,Dark,None
+Behemoth Bash,100,100,Physical,5,Steel,None
+Behemoth Blade,100,100,Physical,5,Steel,None
+Belch,90,120,Special,10,Poison,None
+Belly Drum,true,0,Status,10,Normal,None
+Bestow,true,0,Status,15,Normal,None
+Bide,true,0,Physical,10,Normal,None
+Bind,85,15,Physical,20,Normal,None
+Bite,100,60,Physical,25,Dark,chance:30|effect:flinch
+Bitter Blade,100,90,Physical,10,Fire,None
+Bitter Malice,100,75,Special,10,Ghost,None
+Black Hole Eclipse,true,1,Physical,1,Dark,None
+Blast Burn,90,150,Special,5,Fire,None
+Blaze Kick,90,85,Physical,10,Fire,chance:10|effect:brn
+Blazing Torque,100,80,Physical,10,Fire,chance:30|effect:brn
+Bleakwind Storm,80,100,Special,10,Flying,None
+Blizzard,70,110,Special,5,Ice,chance:10|effect:frz
+Block,true,0,Status,5,Normal,None
+Bloom Doom,true,1,Physical,1,Grass,None
+Blue Flare,85,130,Special,5,Fire,chance:20|effect:brn
+Body Press,100,80,Physical,10,Fighting,None
+Body Slam,100,85,Physical,15,Normal,chance:30|effect:par
+Bolt Beak,100,85,Physical,10,Electric,None
+Bolt Strike,85,130,Physical,5,Electric,chance:20|effect:par
+Bone Club,85,65,Physical,20,Ground,chance:10|effect:flinch
+Bonemerang,90,50,Physical,10,Ground,None
+Bone Rush,90,25,Physical,10,Ground,None
+Boomburst,100,140,Special,10,Normal,None
+Bounce,85,85,Physical,5,Flying,chance:30|effect:par
+Bouncy Bubble,100,60,Special,20,Water,None
+Branch Poke,100,40,Physical,40,Grass,None
+Brave Bird,100,120,Physical,15,Flying,None
+Breaking Swipe,100,60,Physical,15,Dragon,None
+Breakneck Blitz,true,1,Physical,1,Normal,None
+Brick Break,100,75,Physical,15,Fighting,None
+Brine,100,65,Special,10,Water,None
+Brutal Swing,100,60,Physical,20,Dark,None
+Bubble,100,40,Special,30,Water,None
+Bubble Beam,100,65,Special,20,Water,None
+Bug Bite,100,60,Physical,20,Bug,None
+Bug Buzz,100,90,Special,10,Bug,None
+Bulk Up,true,0,Status,20,Fighting,None
+Bulldoze,100,60,Physical,20,Ground,None
+Bullet Punch,100,40,Physical,30,Steel,None
+Bullet Seed,100,25,Physical,30,Grass,None
+Burning Jealousy,100,70,Special,5,Fire,None
+Burn Up,100,130,Special,5,Fire,None
+Buzzy Buzz,100,60,Special,20,Electric,chance:100|effect:par
+Calm Mind,true,0,Status,20,Psychic,None
+Camouflage,true,0,Status,20,Normal,None
+Captivate,100,0,Status,20,Normal,None
+Catastropika,true,210,Physical,1,Electric,None
+Ceaseless Edge,90,65,Physical,15,Dark,None
+Celebrate,true,0,Status,40,Normal,None
+Charge,true,0,Status,20,Electric,None
+Charge Beam,90,50,Special,10,Electric,None
+Charm,100,0,Status,20,Fairy,None
+Chatter,100,65,Special,20,Flying,chance:100|effect:confusion
+Chilling Water,100,50,Special,20,Water,None
+Chilly Reception,true,0,Status,10,Ice,None
+Chip Away,100,70,Physical,20,Normal,None
+Chloroblast,95,150,Special,5,Grass,None
+Circle Throw,90,60,Physical,10,Fighting,None
+Clamp,85,35,Physical,15,Water,None
+Clanging Scales,100,110,Special,5,Dragon,None
+Clangorous Soul,100,0,Status,5,Dragon,None
+Clangorous Soulblaze,true,185,Special,1,Dragon,None
+Clear Smog,true,50,Special,15,Poison,None
+Close Combat,100,120,Physical,5,Fighting,None
+Coaching,true,0,Status,10,Fighting,None
+Coil,true,0,Status,20,Poison,None
+Collision Course,100,100,Physical,5,Fighting,None
+Combat Torque,100,100,Physical,10,Fighting,chance:30|effect:par
+Comet Punch,85,18,Physical,15,Normal,None
+Comeuppance,100,0,Physical,10,Dark,None
+Confide,true,0,Status,20,Normal,None
+Confuse Ray,100,0,Status,10,Ghost,chance:100|effect:confusion
+Confusion,100,50,Special,25,Psychic,chance:10|effect:confusion
+Constrict,100,10,Physical,35,Normal,None
+Continental Crush,true,1,Physical,1,Rock,None
+Conversion,true,0,Status,30,Normal,None
+Conversion 2,true,0,Status,30,Normal,None
+Copycat,true,0,Status,20,Normal,None
+Core Enforcer,100,100,Special,10,Dragon,None
+Corkscrew Crash,true,1,Physical,1,Steel,None
+Corrosive Gas,100,0,Status,40,Poison,None
+Cosmic Power,true,0,Status,20,Psychic,None
+Cotton Guard,true,0,Status,10,Grass,None
+Cotton Spore,100,0,Status,40,Grass,None
+Counter,100,0,Physical,20,Fighting,None
+Court Change,100,0,Status,10,Normal,None
+Covet,100,60,Physical,25,Normal,None
+Crabhammer,90,100,Physical,10,Water,None
+Crafty Shield,true,0,Status,10,Fairy,None
+Cross Chop,80,100,Physical,5,Fighting,None
+Cross Poison,100,70,Physical,20,Poison,chance:10|effect:psn
+Crunch,100,80,Physical,15,Dark,None
+Crush Claw,95,75,Physical,10,Normal,None
+Crush Grip,100,0,Physical,5,Normal,None
+Curse,true,0,Status,10,Ghost,None
+Cut,95,50,Physical,30,Normal,None
+Darkest Lariat,100,85,Physical,10,Dark,None
+Dark Pulse,100,80,Special,15,Dark,chance:20|effect:flinch
+Dark Void,50,0,Status,10,Dark,chance:100|effect:slp
+Dazzling Gleam,100,80,Special,10,Fairy,None
+Decorate,true,0,Status,15,Fairy,None
+Defend Order,true,0,Status,10,Bug,None
+Defense Curl,true,0,Status,40,Normal,None
+Defog,true,0,Status,15,Flying,None
+Destiny Bond,true,0,Status,5,Ghost,None
+Detect,true,0,Status,5,Fighting,None
+Devastating Drake,true,1,Physical,1,Dragon,None
+Diamond Storm,95,100,Physical,5,Rock,None
+Dig,100,80,Physical,10,Ground,None
+Disable,100,0,Status,20,Normal,None
+Disarming Voice,true,40,Special,15,Fairy,None
+Discharge,100,80,Special,15,Electric,chance:30|effect:par
+Dire Claw,100,80,Physical,15,Poison,None
+Dive,100,80,Physical,10,Water,None
+Dizzy Punch,100,70,Physical,10,Normal,chance:20|effect:confusion
+Doodle,100,0,Status,10,Normal,None
+Doom Desire,100,140,Special,5,Steel,None
+Double-Edge,100,120,Physical,15,Normal,None
+Double Hit,90,35,Physical,10,Normal,None
+Double Iron Bash,100,60,Physical,5,Steel,chance:30|effect:flinch
+Double Kick,100,30,Physical,30,Fighting,None
+Double Shock,100,120,Physical,5,Electric,None
+Double Slap,85,15,Physical,10,Normal,None
+Double Team,true,0,Status,15,Normal,None
+Draco Meteor,90,130,Special,5,Dragon,None
+Dragon Ascent,100,120,Physical,5,Flying,None
+Dragon Breath,100,60,Special,20,Dragon,chance:30|effect:par
+Dragon Claw,100,80,Physical,15,Dragon,None
+Dragon Dance,true,0,Status,20,Dragon,None
+Dragon Darts,100,50,Physical,10,Dragon,None
+Dragon Energy,100,150,Special,5,Dragon,None
+Dragon Hammer,100,90,Physical,15,Dragon,None
+Dragon Pulse,100,85,Special,10,Dragon,None
+Dragon Rage,100,0,Special,10,Dragon,None
+Dragon Rush,75,100,Physical,10,Dragon,chance:20|effect:flinch
+Dragon Tail,90,60,Physical,10,Dragon,None
+Draining Kiss,100,50,Special,10,Fairy,None
+Drain Punch,100,75,Physical,10,Fighting,None
+Dream Eater,100,100,Special,15,Psychic,None
+Drill Peck,100,80,Physical,20,Flying,None
+Drill Run,95,80,Physical,10,Ground,None
+Drum Beating,100,80,Physical,10,Grass,None
+Dual Chop,90,40,Physical,15,Dragon,None
+Dual Wingbeat,90,40,Physical,10,Flying,None
+Dynamax Cannon,100,100,Special,5,Dragon,None
+Dynamic Punch,50,100,Physical,5,Fighting,chance:100|effect:confusion
+Earth Power,100,90,Special,10,Ground,None
+Earthquake,100,100,Physical,10,Ground,None
+Echoed Voice,100,40,Special,15,Normal,None
+Eerie Impulse,100,0,Status,15,Electric,None
+Eerie Spell,100,80,Special,5,Psychic,None
+Egg Bomb,75,100,Physical,10,Normal,None
+Electric Terrain,true,0,Status,10,Electric,None
+Electrify,true,0,Status,20,Electric,None
+Electro Ball,100,0,Special,10,Electric,None
+Electro Drift,100,100,Special,5,Electric,None
+Electroweb,95,55,Special,15,Electric,None
+Embargo,100,0,Status,15,Dark,None
+Ember,100,40,Special,25,Fire,chance:10|effect:brn
+Encore,100,0,Status,5,Normal,None
+Endeavor,100,0,Physical,5,Normal,None
+Endure,true,0,Status,10,Normal,None
+Energy Ball,100,90,Special,10,Grass,None
+Entrainment,100,0,Status,15,Normal,None
+Eruption,100,150,Special,5,Fire,None
+Esper Wing,100,80,Special,10,Psychic,None
+Eternabeam,90,160,Special,5,Dragon,None
+Expanding Force,100,80,Special,10,Psychic,None
+Explosion,100,250,Physical,5,Normal,None
+Extrasensory,100,80,Special,20,Psychic,chance:10|effect:flinch
+Extreme Evoboost,true,0,Status,1,Normal,None
+Extreme Speed,100,80,Physical,5,Normal,None
+Facade,100,70,Physical,20,Normal,None
+Fairy Lock,true,0,Status,10,Fairy,None
+Fairy Wind,100,40,Special,30,Fairy,None
+Fake Out,100,40,Physical,10,Normal,chance:100|effect:flinch
+Fake Tears,100,0,Status,20,Dark,None
+False Surrender,true,80,Physical,10,Dark,None
+False Swipe,100,40,Physical,40,Normal,None
+Feather Dance,100,0,Status,15,Flying,None
+Feint,100,30,Physical,10,Normal,None
+Feint Attack,true,60,Physical,20,Dark,None
+Fell Stinger,100,50,Physical,25,Bug,None
+Fiery Dance,100,80,Special,10,Fire,None
+Fiery Wrath,100,90,Special,10,Dark,chance:20|effect:flinch
+Fillet Away,true,0,Status,10,Normal,None
+Final Gambit,100,0,Special,5,Fighting,None
+Fire Blast,85,110,Special,5,Fire,chance:10|effect:brn
+Fire Fang,95,65,Physical,15,Fire,None
+Fire Lash,100,80,Physical,15,Fire,None
+Fire Pledge,100,80,Special,10,Fire,None
+Fire Punch,100,75,Physical,15,Fire,chance:10|effect:brn
+Fire Spin,85,35,Special,15,Fire,None
+First Impression,100,90,Physical,10,Bug,None
+Fishious Rend,100,85,Physical,10,Water,None
+Fissure,30,0,Physical,5,Ground,None
+Flail,100,0,Physical,15,Normal,None
+Flame Burst,100,70,Special,15,Fire,None
+Flame Charge,100,50,Physical,20,Fire,None
+Flame Wheel,100,60,Physical,25,Fire,chance:10|effect:brn
+Flamethrower,100,90,Special,15,Fire,chance:10|effect:brn
+Flare Blitz,100,120,Physical,15,Fire,chance:10|effect:brn
+Flash,100,0,Status,20,Normal,None
+Flash Cannon,100,80,Special,10,Steel,None
+Flatter,100,0,Status,15,Dark,chance:100|effect:confusion
+Fleur Cannon,90,130,Special,5,Fairy,None
+Fling,100,0,Physical,10,Dark,None
+Flip Turn,100,60,Physical,20,Water,None
+Floaty Fall,95,90,Physical,15,Flying,chance:30|effect:flinch
+Floral Healing,true,0,Status,10,Fairy,None
+Flower Shield,true,0,Status,10,Fairy,None
+Flower Trick,true,70,Physical,10,Grass,None
+Fly,95,90,Physical,15,Flying,None
+Flying Press,95,100,Physical,10,Fighting,None
+Focus Blast,70,120,Special,5,Fighting,None
+Focus Energy,true,0,Status,30,Normal,None
+Focus Punch,100,150,Physical,20,Fighting,None
+Follow Me,true,0,Status,20,Normal,None
+Force Palm,100,60,Physical,10,Fighting,chance:30|effect:par
+Foresight,true,0,Status,40,Normal,None
+Forest's Curse,100,0,Status,20,Grass,None
+Foul Play,100,95,Physical,15,Dark,None
+Freeze-Dry,100,70,Special,20,Ice,chance:10|effect:frz
+Freeze Shock,90,140,Physical,5,Ice,chance:30|effect:par
+Freezing Glare,100,90,Special,10,Psychic,chance:10|effect:frz
+Freezy Frost,90,100,Special,10,Ice,None
+Frenzy Plant,90,150,Special,5,Grass,None
+Frost Breath,90,60,Special,10,Ice,None
+Frustration,100,0,Physical,20,Normal,None
+Fury Attack,85,15,Physical,20,Normal,None
+Fury Cutter,95,40,Physical,20,Bug,None
+Fury Swipes,80,18,Physical,15,Normal,None
+Fusion Bolt,100,100,Physical,5,Electric,None
+Fusion Flare,100,100,Special,5,Fire,None
+Future Sight,100,120,Special,10,Psychic,None
+Gastro Acid,100,0,Status,10,Poison,None
+Gear Grind,85,50,Physical,15,Steel,None
+Gear Up,true,0,Status,20,Steel,None
+Genesis Supernova,true,185,Special,1,Psychic,None
+Geomancy,true,0,Status,10,Fairy,None
+Giga Drain,100,75,Special,10,Grass,None
+Giga Impact,90,150,Physical,5,Normal,None
+Gigaton Hammer,100,160,Physical,5,Steel,None
+Gigavolt Havoc,true,1,Physical,1,Electric,None
+Glacial Lance,100,120,Physical,5,Ice,None
+Glaciate,95,65,Special,10,Ice,None
+Glaive Rush,100,120,Physical,5,Dragon,None
+Glare,100,0,Status,30,Normal,chance:100|effect:par
+Glitzy Glow,95,80,Special,15,Psychic,None
+G-Max Befuddle,true,10,Physical,5,Bug,None
+G-Max Cannonade,true,10,Physical,10,Water,None
+G-Max Centiferno,true,10,Physical,5,Fire,None
+G-Max Chi Strike,true,10,Physical,5,Fighting,None
+G-Max Cuddle,true,10,Physical,5,Normal,None
+G-Max Depletion,true,10,Physical,5,Dragon,None
+G-Max Drum Solo,true,160,Physical,5,Grass,None
+G-Max Finale,true,10,Physical,5,Fairy,None
+G-Max Fireball,true,160,Physical,5,Fire,None
+G-Max Foam Burst,true,10,Physical,5,Water,None
+G-Max Gold Rush,true,10,Physical,5,Normal,None
+G-Max Gravitas,true,10,Physical,5,Psychic,None
+G-Max Hydrosnipe,true,160,Physical,5,Water,None
+G-Max Malodor,true,10,Physical,5,Poison,None
+G-Max Meltdown,true,10,Physical,5,Steel,None
+G-Max One Blow,true,10,Physical,5,Dark,None
+G-Max Rapid Flow,true,10,Physical,5,Water,None
+G-Max Replenish,true,10,Physical,5,Normal,None
+G-Max Resonance,true,10,Physical,5,Ice,None
+G-Max Sandblast,true,10,Physical,5,Ground,None
+G-Max Smite,true,10,Physical,5,Fairy,None
+G-Max Snooze,true,10,Physical,5,Dark,None
+G-Max Steelsurge,true,10,Physical,5,Steel,None
+G-Max Stonesurge,true,10,Physical,5,Water,None
+G-Max Stun Shock,true,10,Physical,10,Electric,None
+G-Max Sweetness,true,10,Physical,10,Grass,None
+G-Max Tartness,true,10,Physical,10,Grass,None
+G-Max Terror,true,10,Physical,10,Ghost,None
+G-Max Vine Lash,true,10,Physical,10,Grass,None
+G-Max Volcalith,true,10,Physical,10,Rock,None
+G-Max Volt Crash,true,10,Physical,10,Electric,None
+G-Max Wildfire,true,10,Physical,10,Fire,None
+G-Max Wind Rage,true,10,Physical,10,Flying,None
+Grass Knot,100,0,Special,20,Grass,None
+Grass Pledge,100,80,Special,10,Grass,None
+Grass Whistle,55,0,Status,15,Grass,chance:100|effect:slp
+Grassy Glide,100,60,Physical,20,Grass,None
+Grassy Terrain,true,0,Status,10,Grass,None
+Grav Apple,100,80,Physical,10,Grass,None
+Gravity,true,0,Status,5,Psychic,None
+Growl,100,0,Status,40,Normal,None
+Growth,true,0,Status,20,Normal,None
+Grudge,true,0,Status,5,Ghost,None
+Guardian of Alola,true,0,Special,1,Fairy,None
+Guard Split,true,0,Status,10,Psychic,None
+Guard Swap,true,0,Status,10,Psychic,None
+Guillotine,30,0,Physical,5,Normal,None
+Gunk Shot,80,120,Physical,5,Poison,chance:30|effect:psn
+Gust,100,40,Special,35,Flying,None
+Gyro Ball,100,0,Physical,5,Steel,None
+Hail,true,0,Status,10,Ice,None
+Hammer Arm,90,100,Physical,10,Fighting,None
+Happy Hour,true,0,Status,30,Normal,None
+Harden,true,0,Status,30,Normal,None
+Haze,true,0,Status,30,Ice,None
+Headbutt,100,70,Physical,15,Normal,chance:30|effect:flinch
+Head Charge,100,120,Physical,15,Normal,None
+Headlong Rush,100,120,Physical,5,Ground,None
+Head Smash,80,150,Physical,5,Rock,None
+Heal Bell,true,0,Status,5,Normal,None
+Heal Block,100,0,Status,15,Psychic,None
+Healing Wish,true,0,Status,10,Psychic,None
+Heal Order,true,0,Status,10,Bug,None
+Heal Pulse,true,0,Status,10,Psychic,None
+Heart Stamp,100,60,Physical,25,Psychic,chance:30|effect:flinch
+Heart Swap,true,0,Status,10,Psychic,None
+Heat Crash,100,0,Physical,10,Fire,None
+Heat Wave,90,95,Special,10,Fire,chance:10|effect:brn
+Heavy Slam,100,0,Physical,10,Steel,None
+Helping Hand,true,0,Status,20,Normal,None
+Hex,100,65,Special,10,Ghost,None
+Hidden Power,100,60,Special,15,Normal,None
+Hidden Power Bug,100,60,Special,15,Bug,None
+Hidden Power Dark,100,60,Special,15,Dark,None
+Hidden Power Dragon,100,60,Special,15,Dragon,None
+Hidden Power Electric,100,60,Special,15,Electric,None
+Hidden Power Fighting,100,60,Special,15,Fighting,None
+Hidden Power Fire,100,60,Special,15,Fire,None
+Hidden Power Flying,100,60,Special,15,Flying,None
+Hidden Power Ghost,100,60,Special,15,Ghost,None
+Hidden Power Grass,100,60,Special,15,Grass,None
+Hidden Power Ground,100,60,Special,15,Ground,None
+Hidden Power Ice,100,60,Special,15,Ice,None
+Hidden Power Poison,100,60,Special,15,Poison,None
+Hidden Power Psychic,100,60,Special,15,Psychic,None
+Hidden Power Rock,100,60,Special,15,Rock,None
+Hidden Power Steel,100,60,Special,15,Steel,None
+Hidden Power Water,100,60,Special,15,Water,None
+High Horsepower,95,95,Physical,10,Ground,None
+High Jump Kick,90,130,Physical,10,Fighting,None
+Hold Back,100,40,Physical,40,Normal,None
+Hold Hands,true,0,Status,40,Normal,None
+Hone Claws,true,0,Status,15,Dark,None
+Horn Attack,100,65,Physical,25,Normal,None
+Horn Drill,30,0,Physical,5,Normal,None
+Horn Leech,100,75,Physical,10,Grass,None
+Howl,true,0,Status,40,Normal,None
+Hurricane,70,110,Special,10,Flying,chance:30|effect:confusion
+Hydro Cannon,90,150,Special,5,Water,None
+Hydro Pump,80,110,Special,5,Water,None
+Hydro Vortex,true,1,Physical,1,Water,None
+Hyper Beam,90,150,Special,5,Normal,None
+Hyper Drill,100,100,Physical,5,Normal,None
+Hyper Fang,90,80,Physical,15,Normal,chance:10|effect:flinch
+Hyperspace Fury,true,100,Physical,5,Dark,None
+Hyperspace Hole,true,80,Special,5,Psychic,None
+Hyper Voice,100,90,Special,10,Normal,None
+Hypnosis,60,0,Status,20,Psychic,chance:100|effect:slp
+Ice Ball,90,30,Physical,20,Ice,None
+Ice Beam,100,90,Special,10,Ice,chance:10|effect:frz
+Ice Burn,90,140,Special,5,Ice,chance:30|effect:brn
+Ice Fang,95,65,Physical,15,Ice,None
+Ice Hammer,90,100,Physical,10,Ice,None
+Ice Punch,100,75,Physical,15,Ice,chance:10|effect:frz
+Ice Shard,100,40,Physical,30,Ice,None
+Ice Spinner,100,80,Physical,15,Ice,None
+Icicle Crash,90,85,Physical,10,Ice,chance:30|effect:flinch
+Icicle Spear,100,25,Physical,30,Ice,None
+Icy Wind,95,55,Special,15,Ice,None
+Imprison,true,0,Status,10,Psychic,None
+Incinerate,100,60,Special,15,Fire,None
+Infernal Parade,100,60,Special,15,Ghost,chance:30|effect:brn
+Inferno,50,100,Special,5,Fire,chance:100|effect:brn
+Inferno Overdrive,true,1,Physical,1,Fire,None
+Infestation,100,20,Special,20,Bug,None
+Ingrain,true,0,Status,20,Grass,None
+Instruct,true,0,Status,15,Psychic,None
+Ion Deluge,true,0,Status,25,Electric,None
+Iron Defense,true,0,Status,15,Steel,None
+Iron Head,100,80,Physical,15,Steel,chance:30|effect:flinch
+Iron Tail,75,100,Physical,15,Steel,None
+Jaw Lock,100,80,Physical,10,Dark,None
+Jet Punch,100,60,Physical,15,Water,None
+Judgment,100,100,Special,10,Normal,None
+Jump Kick,95,100,Physical,10,Fighting,None
+Jungle Healing,true,0,Status,10,Grass,None
+Karate Chop,100,50,Physical,25,Fighting,None
+Kinesis,80,0,Status,15,Psychic,None
+King's Shield,true,0,Status,10,Steel,None
+Knock Off,100,65,Physical,20,Dark,None
+Kowtow Cleave,true,85,Physical,10,Dark,None
+Land's Wrath,100,90,Physical,10,Ground,None
+Laser Focus,true,0,Status,30,Normal,None
+Lash Out,100,75,Physical,5,Dark,None
+Last Resort,100,140,Physical,5,Normal,None
+Last Respects,100,50,Physical,10,Ghost,None
+Lava Plume,100,80,Special,15,Fire,chance:30|effect:brn
+Leafage,100,40,Physical,40,Grass,None
+Leaf Blade,100,90,Physical,15,Grass,None
+Leaf Storm,90,130,Special,5,Grass,None
+Leaf Tornado,90,65,Special,10,Grass,None
+Leech Life,100,80,Physical,10,Bug,None
+Leech Seed,90,0,Status,10,Grass,None
+Leer,100,0,Status,30,Normal,None
+Let's Snuggle Forever,true,190,Physical,1,Fairy,None
+Lick,100,30,Physical,30,Ghost,chance:30|effect:par
+Life Dew,true,0,Status,10,Water,None
+Light of Ruin,90,140,Special,5,Fairy,None
+Light Screen,true,0,Status,30,Psychic,None
+Light That Burns the Sky,true,200,Special,1,Psychic,None
+Liquidation,100,85,Physical,10,Water,None
+Lock-On,true,0,Status,5,Normal,None
+Lovely Kiss,75,0,Status,10,Normal,chance:100|effect:slp
+Low Kick,100,0,Physical,20,Fighting,None
+Low Sweep,100,65,Physical,20,Fighting,None
+Lucky Chant,true,0,Status,30,Normal,None
+Lumina Crash,100,80,Special,10,Psychic,None
+Lunar Blessing,true,0,Status,5,Psychic,None
+Lunar Dance,true,0,Status,10,Psychic,None
+Lunge,100,80,Physical,15,Bug,None
+Luster Purge,100,70,Special,5,Psychic,None
+Mach Punch,100,40,Physical,30,Fighting,None
+Magical Leaf,true,60,Special,20,Grass,None
+Magical Torque,100,100,Physical,10,Fairy,chance:30|effect:confusion
+Magic Coat,true,0,Status,15,Psychic,None
+Magic Powder,100,0,Status,20,Psychic,None
+Magic Room,true,0,Status,10,Psychic,None
+Magma Storm,75,100,Special,5,Fire,None
+Magnet Bomb,true,60,Physical,20,Steel,None
+Magnetic Flux,true,0,Status,20,Electric,None
+Magnet Rise,true,0,Status,10,Electric,None
+Magnitude,100,0,Physical,30,Ground,None
+Make It Rain,100,120,Special,5,Steel,None
+Malicious Moonsault,true,180,Physical,1,Dark,None
+Mat Block,true,0,Status,10,Fighting,None
+Max Airstream,true,10,Physical,10,Flying,None
+Max Darkness,true,10,Physical,10,Dark,None
+Max Flare,true,100,Physical,10,Fire,None
+Max Flutterby,true,10,Physical,10,Bug,None
+Max Geyser,true,10,Physical,10,Water,None
+Max Guard,true,0,Status,10,Normal,None
+Max Hailstorm,true,10,Physical,10,Ice,None
+Max Knuckle,true,10,Physical,10,Fighting,None
+Max Lightning,true,10,Physical,10,Electric,None
+Max Mindstorm,true,10,Physical,10,Psychic,None
+Max Ooze,true,10,Physical,10,Poison,None
+Max Overgrowth,true,10,Physical,10,Grass,None
+Max Phantasm,true,10,Physical,10,Ghost,None
+Max Quake,true,10,Physical,10,Ground,None
+Max Rockfall,true,10,Physical,10,Rock,None
+Max Starfall,true,10,Physical,10,Fairy,None
+Max Steelspike,true,10,Physical,10,Steel,None
+Max Strike,true,10,Physical,10,Normal,None
+Max Wyrmwind,true,10,Physical,10,Dragon,None
+Mean Look,true,0,Status,5,Normal,None
+Meditate,true,0,Status,40,Psychic,None
+Me First,true,0,Status,20,Normal,None
+Mega Drain,100,40,Special,15,Grass,None
+Megahorn,85,120,Physical,10,Bug,None
+Mega Kick,75,120,Physical,5,Normal,None
+Mega Punch,85,80,Physical,20,Normal,None
+Memento,100,0,Status,10,Dark,None
+Menacing Moonraze Maelstrom,true,200,Special,1,Ghost,None
+Metal Burst,100,0,Physical,10,Steel,None
+Metal Claw,95,50,Physical,35,Steel,None
+Metal Sound,85,0,Status,40,Steel,None
+Meteor Assault,100,150,Physical,5,Fighting,None
+Meteor Beam,90,120,Special,10,Rock,None
+Meteor Mash,90,90,Physical,10,Steel,None
+Metronome,true,0,Status,10,Normal,None
+Milk Drink,true,0,Status,5,Normal,None
+Mimic,true,0,Status,10,Normal,None
+Mind Blown,100,150,Special,5,Fire,None
+Mind Reader,true,0,Status,5,Normal,None
+Minimize,true,0,Status,10,Normal,None
+Miracle Eye,true,0,Status,40,Psychic,None
+Mirror Coat,100,0,Special,20,Psychic,None
+Mirror Move,true,0,Status,20,Flying,None
+Mirror Shot,85,65,Special,10,Steel,None
+Mist,true,0,Status,30,Ice,None
+Mist Ball,100,70,Special,5,Psychic,None
+Misty Explosion,100,100,Special,5,Fairy,None
+Misty Terrain,true,0,Status,10,Fairy,None
+Moonblast,100,95,Special,15,Fairy,None
+Moongeist Beam,100,100,Special,5,Ghost,None
+Moonlight,true,0,Status,5,Fairy,None
+Morning Sun,true,0,Status,5,Normal,None
+Mortal Spin,100,30,Physical,15,Poison,chance:100|effect:psn
+Mountain Gale,85,100,Physical,10,Ice,chance:30|effect:flinch
+Mud Bomb,85,65,Special,10,Ground,None
+Mud Shot,95,55,Special,15,Ground,None
+Mud-Slap,100,20,Special,10,Ground,None
+Mud Sport,true,0,Status,15,Ground,None
+Muddy Water,85,90,Special,10,Water,None
+Multi-Attack,100,120,Physical,10,Normal,None
+Mystical Fire,100,75,Special,10,Fire,None
+Mystical Power,90,70,Special,10,Psychic,None
+Nasty Plot,true,0,Status,20,Dark,None
+Natural Gift,100,0,Physical,15,Normal,None
+Nature Power,true,0,Status,20,Normal,None
+Nature's Madness,90,0,Special,10,Fairy,None
+Needle Arm,100,60,Physical,15,Grass,chance:30|effect:flinch
+Never-Ending Nightmare,true,1,Physical,1,Ghost,None
+Night Daze,95,85,Special,10,Dark,None
+Nightmare,100,0,Status,15,Ghost,None
+Night Shade,100,0,Special,15,Ghost,None
+Night Slash,100,70,Physical,15,Dark,None
+Noble Roar,100,0,Status,30,Normal,None
+No Retreat,true,0,Status,5,Fighting,None
+Noxious Torque,100,100,Physical,10,Poison,chance:30|effect:psn
+Nuzzle,100,20,Physical,20,Electric,chance:100|effect:par
+Oblivion Wing,100,80,Special,10,Flying,None
+Obstruct,100,0,Status,10,Dark,None
+Oceanic Operetta,true,195,Special,1,Water,None
+Octazooka,85,65,Special,10,Water,None
+Octolock,100,0,Status,15,Fighting,None
+Odor Sleuth,true,0,Status,40,Normal,None
+Ominous Wind,100,60,Special,5,Ghost,None
+Order Up,100,80,Physical,10,Dragon,None
+Origin Pulse,85,110,Special,10,Water,None
+Outrage,100,120,Physical,10,Dragon,None
+Overdrive,100,80,Special,10,Electric,None
+Overheat,90,130,Special,5,Fire,None
+Pain Split,true,0,Status,20,Normal,None
+Paleo Wave,100,85,Special,15,Rock,None
+Parabolic Charge,100,65,Special,20,Electric,None
+Parting Shot,100,0,Status,20,Dark,None
+Payback,100,50,Physical,10,Dark,None
+Pay Day,100,40,Physical,20,Normal,None
+Peck,100,35,Physical,35,Flying,None
+Perish Song,true,0,Status,5,Normal,None
+Petal Blizzard,100,90,Physical,15,Grass,None
+Petal Dance,100,120,Special,10,Grass,None
+Phantom Force,100,90,Physical,10,Ghost,None
+Photon Geyser,100,100,Special,5,Psychic,None
+Pika Papow,true,0,Special,20,Electric,None
+Pin Missile,95,25,Physical,20,Bug,None
+Plasma Fists,100,100,Physical,15,Electric,None
+Play Nice,true,0,Status,20,Normal,None
+Play Rough,90,90,Physical,10,Fairy,None
+Pluck,100,60,Physical,20,Flying,None
+Poison Fang,100,50,Physical,15,Poison,chance:50|effect:psn
+Poison Gas,90,0,Status,40,Poison,chance:100|effect:psn
+Poison Jab,100,80,Physical,20,Poison,chance:30|effect:psn
+Poison Powder,75,0,Status,35,Poison,chance:100|effect:psn
+Poison Sting,100,15,Physical,35,Poison,chance:30|effect:psn
+Poison Tail,100,50,Physical,25,Poison,chance:10|effect:psn
+Pollen Puff,100,90,Special,15,Bug,None
+Poltergeist,90,110,Physical,5,Ghost,None
+Population Bomb,90,20,Physical,10,Normal,None
+Pounce,100,50,Physical,20,Bug,None
+Pound,100,40,Physical,35,Normal,None
+Powder,100,0,Status,20,Bug,None
+Powder Snow,100,40,Special,25,Ice,chance:10|effect:frz
+Power Gem,100,80,Special,20,Rock,None
+Power Shift,true,0,Status,10,Normal,None
+Power Split,true,0,Status,10,Psychic,None
+Power Swap,true,0,Status,10,Psychic,None
+Power Trick,true,0,Status,10,Psychic,None
+Power Trip,100,20,Physical,10,Dark,None
+Power-Up Punch,100,40,Physical,20,Fighting,None
+Power Whip,85,120,Physical,10,Grass,None
+Precipice Blades,85,120,Physical,10,Ground,None
+Present,90,0,Physical,15,Normal,None
+Prismatic Laser,100,160,Special,10,Psychic,None
+Protect,true,0,Status,10,Normal,None
+Psybeam,100,65,Special,20,Psychic,chance:10|effect:confusion
+Psych Up,true,0,Status,10,Normal,None
+Psychic,100,90,Special,10,Psychic,None
+Psychic Fangs,100,85,Physical,10,Psychic,None
+Psychic Terrain,true,0,Status,10,Psychic,None
+Psycho Boost,90,140,Special,5,Psychic,None
+Psycho Cut,100,70,Physical,20,Psychic,None
+Psycho Shift,100,0,Status,10,Psychic,None
+Psyshield Bash,90,70,Physical,10,Psychic,None
+Psyshock,100,80,Special,10,Psychic,None
+Psystrike,100,100,Special,10,Psychic,None
+Psywave,100,0,Special,15,Psychic,None
+Pulverizing Pancake,true,210,Physical,1,Normal,None
+Punishment,100,0,Physical,5,Dark,None
+Purify,true,0,Status,20,Poison,None
+Pursuit,100,40,Physical,20,Dark,None
+Pyro Ball,90,120,Physical,5,Fire,chance:10|effect:brn
+Quash,100,0,Status,15,Dark,None
+Quick Attack,100,40,Physical,30,Normal,None
+Quick Guard,true,0,Status,15,Fighting,None
+Quiver Dance,true,0,Status,20,Bug,None
+Rage,100,20,Physical,20,Normal,None
+Rage Fist,100,50,Physical,10,Ghost,None
+Rage Powder,true,0,Status,20,Bug,None
+Raging Bull,100,90,Physical,10,Normal,None
+Raging Fury,100,120,Physical,10,Fire,None
+Rain Dance,true,0,Status,5,Water,None
+Rapid Spin,100,50,Physical,40,Normal,None
+Razor Leaf,95,55,Physical,25,Grass,None
+Razor Shell,95,75,Physical,10,Water,None
+Razor Wind,100,80,Special,10,Normal,None
+Recover,true,0,Status,5,Normal,None
+Recycle,true,0,Status,10,Normal,None
+Reflect,true,0,Status,20,Psychic,None
+Reflect Type,true,0,Status,15,Normal,None
+Refresh,true,0,Status,20,Normal,None
+Relic Song,100,75,Special,10,Normal,chance:10|effect:slp
+Rest,true,0,Status,5,Psychic,None
+Retaliate,100,70,Physical,5,Normal,None
+Return,100,0,Physical,20,Normal,None
+Revelation Dance,100,90,Special,15,Normal,None
+Revenge,100,60,Physical,10,Fighting,None
+Reversal,100,0,Physical,15,Fighting,None
+Revival Blessing,true,0,Status,1,Normal,None
+Rising Voltage,100,70,Special,20,Electric,None
+Roar,true,0,Status,20,Normal,None
+Roar of Time,90,150,Special,5,Dragon,None
+Rock Blast,90,25,Physical,10,Rock,None
+Rock Climb,85,90,Physical,20,Normal,chance:20|effect:confusion
+Rock Polish,true,0,Status,20,Rock,None
+Rock Slide,90,75,Physical,10,Rock,chance:30|effect:flinch
+Rock Smash,100,40,Physical,15,Fighting,None
+Rock Throw,90,50,Physical,15,Rock,None
+Rock Tomb,95,60,Physical,15,Rock,None
+Rock Wrecker,90,150,Physical,5,Rock,None
+Role Play,true,0,Status,10,Psychic,None
+Rolling Kick,85,60,Physical,15,Fighting,chance:30|effect:flinch
+Rollout,90,30,Physical,20,Rock,None
+Roost,true,0,Status,5,Flying,None
+Rototiller,true,0,Status,10,Ground,None
+Round,100,60,Special,15,Normal,None
+Ruination,90,0,Special,10,Dark,None
+Sacred Fire,95,100,Physical,5,Fire,chance:50|effect:brn
+Sacred Sword,100,90,Physical,15,Fighting,None
+Safeguard,true,0,Status,25,Normal,None
+Salt Cure,100,40,Physical,15,Rock,None
+Sand Attack,100,0,Status,15,Ground,None
+Sandsear Storm,80,100,Special,10,Ground,chance:20|effect:brn
+Sandstorm,true,0,Status,10,Rock,None
+Sand Tomb,85,35,Physical,15,Ground,None
+Sappy Seed,90,100,Physical,10,Grass,None
+Savage Spin-Out,true,1,Physical,1,Bug,None
+Scald,100,80,Special,15,Water,chance:30|effect:brn
+Scale Shot,90,25,Physical,20,Dragon,None
+Scary Face,100,0,Status,10,Normal,None
+Scorching Sands,100,70,Special,10,Ground,chance:30|effect:brn
+Scratch,100,40,Physical,35,Normal,None
+Screech,85,0,Status,40,Normal,None
+Searing Shot,100,100,Special,5,Fire,chance:30|effect:brn
+Searing Sunraze Smash,true,200,Physical,1,Steel,None
+Secret Power,100,70,Physical,20,Normal,chance:30|effect:par
+Secret Sword,100,85,Special,10,Fighting,None
+Seed Bomb,100,80,Physical,15,Grass,None
+Seed Flare,85,120,Special,5,Grass,None
+Seismic Toss,100,0,Physical,20,Fighting,None
+Self-Destruct,100,200,Physical,5,Normal,None
+Shadow Ball,100,80,Special,15,Ghost,None
+Shadow Bone,100,85,Physical,10,Ghost,None
+Shadow Claw,100,70,Physical,15,Ghost,None
+Shadow Force,100,120,Physical,5,Ghost,None
+Shadow Punch,true,60,Physical,20,Ghost,None
+Shadow Sneak,100,40,Physical,30,Ghost,None
+Shadow Strike,95,80,Physical,10,Ghost,None
+Sharpen,true,0,Status,30,Normal,None
+Shattered Psyche,true,1,Physical,1,Psychic,None
+Shed Tail,true,0,Status,10,Normal,None
+Sheer Cold,30,0,Special,5,Ice,None
+Shell Side Arm,100,90,Special,10,Poison,chance:20|effect:psn
+Shell Smash,true,0,Status,15,Normal,None
+Shell Trap,100,150,Special,5,Fire,None
+Shelter,true,0,Status,10,Steel,None
+Shift Gear,true,0,Status,10,Steel,None
+Shock Wave,true,60,Special,20,Electric,None
+Shore Up,true,0,Status,5,Ground,None
+Signal Beam,100,75,Special,15,Bug,chance:10|effect:confusion
+Silk Trap,true,0,Status,10,Bug,None
+Silver Wind,100,60,Special,5,Bug,None
+Simple Beam,100,0,Status,15,Normal,None
+Sing,55,0,Status,15,Normal,chance:100|effect:slp
+Sinister Arrow Raid,true,180,Physical,1,Ghost,None
+Sizzly Slide,100,60,Physical,20,Fire,chance:100|effect:brn
+Sketch,true,0,Status,1,Normal,None
+Skill Swap,true,0,Status,10,Psychic,None
+Skitter Smack,90,70,Physical,10,Bug,None
+Skull Bash,100,130,Physical,10,Normal,None
+Sky Attack,90,140,Physical,5,Flying,chance:30|effect:flinch
+Sky Drop,100,60,Physical,10,Flying,None
+Sky Uppercut,90,85,Physical,15,Fighting,None
+Slack Off,true,0,Status,5,Normal,None
+Slam,75,80,Physical,20,Normal,None
+Slash,100,70,Physical,20,Normal,None
+Sleep Powder,75,0,Status,15,Grass,chance:100|effect:slp
+Sleep Talk,true,0,Status,10,Normal,None
+Sludge,100,65,Special,20,Poison,chance:30|effect:psn
+Sludge Bomb,100,90,Special,10,Poison,chance:30|effect:psn
+Sludge Wave,100,95,Special,10,Poison,chance:10|effect:psn
+Smack Down,100,50,Physical,15,Rock,None
+Smart Strike,true,70,Physical,10,Steel,None
+Smelling Salts,100,70,Physical,10,Normal,None
+Smog,70,30,Special,20,Poison,chance:40|effect:psn
+Smokescreen,100,0,Status,20,Normal,None
+Snap Trap,100,35,Physical,15,Grass,None
+Snarl,95,55,Special,15,Dark,None
+Snatch,true,0,Status,10,Dark,None
+Snipe Shot,100,80,Special,15,Water,None
+Snore,100,50,Special,15,Normal,chance:30|effect:flinch
+Snowscape,true,0,Status,10,Ice,None
+Soak,100,0,Status,20,Water,None
+Soft-Boiled,true,0,Status,5,Normal,None
+Solar Beam,100,120,Special,10,Grass,None
+Solar Blade,100,125,Physical,10,Grass,None
+Sonic Boom,90,0,Special,20,Normal,None
+Soul-Stealing 7-Star Strike,true,195,Physical,1,Ghost,None
+Spacial Rend,95,100,Special,5,Dragon,None
+Spark,100,65,Physical,20,Electric,chance:30|effect:par
+Sparkling Aria,100,90,Special,10,Water,None
+Sparkly Swirl,85,120,Special,5,Fairy,None
+Spectral Thief,100,90,Physical,10,Ghost,None
+Speed Swap,true,0,Status,10,Psychic,None
+Spicy Extract,true,0,Status,15,Grass,None
+Spider Web,true,0,Status,10,Bug,None
+Spike Cannon,100,20,Physical,15,Normal,None
+Spikes,true,0,Status,20,Ground,None
+Spiky Shield,true,0,Status,10,Grass,None
+Spin Out,100,100,Physical,5,Steel,None
+Spirit Break,100,75,Physical,15,Fairy,None
+Spirit Shackle,100,80,Physical,10,Ghost,None
+Spit Up,100,0,Special,10,Normal,None
+Spite,100,0,Status,10,Ghost,None
+Splash,true,0,Status,40,Normal,None
+Splintered Stormshards,true,190,Physical,1,Rock,None
+Splishy Splash,100,90,Special,15,Water,chance:30|effect:par
+Spore,100,0,Status,15,Grass,chance:100|effect:slp
+Spotlight,true,0,Status,15,Normal,None
+Springtide Storm,80,100,Special,5,Fairy,None
+Stealth Rock,true,0,Status,20,Rock,None
+Steam Eruption,95,110,Special,5,Water,chance:30|effect:brn
+Steamroller,100,65,Physical,20,Bug,chance:30|effect:flinch
+Steel Beam,95,140,Special,5,Steel,None
+Steel Roller,100,130,Physical,5,Steel,None
+Steel Wing,90,70,Physical,25,Steel,None
+Sticky Web,true,0,Status,20,Bug,None
+Stockpile,true,0,Status,20,Normal,None
+Stoked Sparksurfer,true,175,Special,1,Electric,chance:100|effect:par
+Stomp,100,65,Physical,20,Normal,chance:30|effect:flinch
+Stomping Tantrum,100,75,Physical,10,Ground,None
+Stone Axe,90,65,Physical,15,Rock,None
+Stone Edge,80,100,Physical,5,Rock,None
+Stored Power,100,20,Special,10,Psychic,None
+Storm Throw,100,60,Physical,10,Fighting,None
+Strange Steam,95,90,Special,10,Fairy,chance:20|effect:confusion
+Strength,100,80,Physical,15,Normal,None
+Strength Sap,100,0,Status,10,Grass,None
+String Shot,95,0,Status,40,Bug,None
+Struggle,true,50,Physical,1,Normal,None
+Struggle Bug,100,50,Special,20,Bug,None
+Stuff Cheeks,true,0,Status,10,Normal,None
+Stun Spore,75,0,Status,30,Grass,chance:100|effect:par
+Submission,80,80,Physical,20,Fighting,None
+Substitute,true,0,Status,10,Normal,None
+Subzero Slammer,true,1,Physical,1,Ice,None
+Sucker Punch,100,70,Physical,5,Dark,None
+Sunny Day,true,0,Status,5,Fire,None
+Sunsteel Strike,100,100,Physical,5,Steel,None
+Super Fang,90,0,Physical,10,Normal,None
+Superpower,100,120,Physical,5,Fighting,None
+Supersonic,55,0,Status,20,Normal,chance:100|effect:confusion
+Supersonic Skystrike,true,1,Physical,1,Flying,None
+Surf,100,90,Special,15,Water,None
+Surging Strikes,100,25,Physical,5,Water,None
+Swagger,85,0,Status,15,Normal,chance:100|effect:confusion
+Swallow,true,0,Status,10,Normal,None
+Sweet Kiss,75,0,Status,10,Fairy,chance:100|effect:confusion
+Sweet Scent,100,0,Status,20,Normal,None
+Swift,true,60,Special,20,Normal,None
+Switcheroo,100,0,Status,10,Dark,None
+Swords Dance,true,0,Status,20,Normal,None
+Synchronoise,100,120,Special,10,Psychic,None
+Synthesis,true,0,Status,5,Grass,None
+Tackle,100,40,Physical,35,Normal,None
+Tail Glow,true,0,Status,20,Bug,None
+Tail Slap,85,25,Physical,10,Normal,None
+Tail Whip,100,0,Status,30,Normal,None
+Tailwind,true,0,Status,15,Flying,None
+Take Down,85,90,Physical,20,Normal,None
+Take Heart,true,0,Status,15,Psychic,None
+Tar Shot,100,0,Status,15,Rock,None
+Taunt,100,0,Status,20,Dark,None
+Tearful Look,true,0,Status,20,Normal,None
+Teatime,true,0,Status,10,Normal,None
+Techno Blast,100,120,Special,5,Normal,None
+Tectonic Rage,true,1,Physical,1,Ground,None
+Teeter Dance,100,0,Status,20,Normal,chance:100|effect:confusion
+Telekinesis,true,0,Status,15,Psychic,None
+Teleport,true,0,Status,20,Psychic,None
+Tera Blast,100,80,Special,10,Normal,None
+Terrain Pulse,100,50,Special,10,Normal,None
+Thief,100,60,Physical,25,Dark,None
+Thousand Arrows,100,90,Physical,10,Ground,None
+Thousand Waves,100,90,Physical,10,Ground,None
+Thrash,100,120,Physical,10,Normal,None
+Throat Chop,100,80,Physical,15,Dark,None
+Thunder,70,110,Special,10,Electric,chance:30|effect:par
+Thunderbolt,100,90,Special,15,Electric,chance:10|effect:par
+Thunder Cage,90,80,Special,15,Electric,None
+Thunder Fang,95,65,Physical,15,Electric,None
+Thunderous Kick,100,90,Physical,10,Fighting,None
+Thunder Punch,100,75,Physical,15,Electric,chance:10|effect:par
+Thunder Shock,100,40,Special,30,Electric,chance:10|effect:par
+Thunder Wave,90,0,Status,20,Electric,chance:100|effect:par
+Tickle,100,0,Status,20,Normal,None
+Tidy Up,true,0,Status,10,Normal,None
+Topsy-Turvy,true,0,Status,20,Dark,None
+Torch Song,100,80,Special,10,Fire,None
+Torment,100,0,Status,15,Dark,None
+Toxic,90,0,Status,10,Poison,chance:100|effect:psn
+Toxic Spikes,true,0,Status,20,Poison,None
+Toxic Thread,100,0,Status,20,Poison,chance:100|effect:psn
+Trailblaze,100,50,Physical,20,Grass,None
+Transform,true,0,Status,10,Normal,None
+Tri Attack,100,80,Special,10,Normal,None
+Trick,100,0,Status,10,Psychic,None
+Trick-or-Treat,100,0,Status,20,Ghost,None
+Trick Room,true,0,Status,5,Psychic,None
+Triple Arrows,100,90,Physical,10,Fighting,None
+Triple Axel,90,20,Physical,10,Ice,None
+Triple Dive,95,30,Physical,10,Water,None
+Triple Kick,90,10,Physical,10,Fighting,None
+Trop Kick,100,70,Physical,15,Grass,None
+Trump Card,true,0,Special,5,Normal,None
+Twin Beam,100,40,Special,10,Psychic,None
+Twineedle,100,25,Physical,20,Bug,chance:20|effect:psn
+Twinkle Tackle,true,1,Physical,1,Fairy,None
+Twister,100,40,Special,20,Dragon,chance:20|effect:flinch
+U-turn,100,70,Physical,20,Bug,None
+Uproar,100,90,Special,10,Normal,None
+Vacuum Wave,100,40,Special,30,Fighting,None
+V-create,95,180,Physical,5,Fire,None
+Veevee Volley,true,0,Physical,20,Normal,None
+Venom Drench,100,0,Status,20,Poison,None
+Venoshock,100,65,Special,10,Poison,None
+Victory Dance,true,0,Status,10,Fighting,None
+Vine Whip,100,45,Physical,25,Grass,None
+Vise Grip,100,55,Physical,30,Normal,None
+Vital Throw,true,70,Physical,10,Fighting,None
+Volt Switch,100,70,Special,20,Electric,None
+Volt Tackle,100,120,Physical,15,Electric,chance:10|effect:par
+Wake-Up Slap,100,70,Physical,10,Fighting,None
+Waterfall,100,80,Physical,15,Water,chance:20|effect:flinch
+Water Gun,100,40,Special,25,Water,None
+Water Pledge,100,80,Special,10,Water,None
+Water Pulse,100,60,Special,20,Water,chance:20|effect:confusion
+Water Shuriken,100,15,Special,20,Water,None
+Water Sport,true,0,Status,15,Water,None
+Water Spout,100,150,Special,5,Water,None
+Wave Crash,100,120,Physical,10,Water,None
+Weather Ball,100,50,Special,10,Normal,None
+Whirlpool,85,35,Special,15,Water,None
+Whirlwind,true,0,Status,20,Normal,None
+Wicked Blow,100,75,Physical,5,Dark,None
+Wicked Torque,100,80,Physical,10,Dark,chance:10|effect:slp
+Wide Guard,true,0,Status,10,Rock,None
+Wildbolt Storm,80,100,Special,10,Electric,chance:20|effect:par
+Wild Charge,100,90,Physical,15,Electric,None
+Will-O-Wisp,85,0,Status,15,Fire,chance:100|effect:brn
+Wing Attack,100,60,Physical,35,Flying,None
+Wish,true,0,Status,10,Normal,None
+Withdraw,true,0,Status,40,Water,None
+Wonder Room,true,0,Status,10,Psychic,None
+Wood Hammer,100,120,Physical,15,Grass,None
+Work Up,true,0,Status,30,Normal,None
+Worry Seed,100,0,Status,10,Grass,None
+Wrap,90,15,Physical,20,Normal,None
+Wring Out,100,0,Special,5,Normal,None
+X-Scissor,100,80,Physical,15,Bug,None
+Yawn,true,0,Status,10,Normal,None
+Zap Cannon,50,120,Special,5,Electric,chance:100|effect:par
+Zen Headbutt,90,80,Physical,15,Psychic,chance:20|effect:flinch
+Zing Zap,100,80,Physical,10,Electric,chance:30|effect:flinch
+Zippy Zap,100,80,Physical,10,Electric,None
